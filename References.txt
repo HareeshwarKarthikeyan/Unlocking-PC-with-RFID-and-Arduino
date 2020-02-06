@@ -1,0 +1,5 @@
+https://create.arduino.cc/projecthub/kksjunior/windows-pc-lock-unlock-using-rfid-5021a6
+https://www.circuito.io/app?components=9442,11286,761981
+https://www.arduino.cc/reference/en/language/functions/usb/keyboard/
+https://www.arduino.cc/en/Reference/KeyboardModifiers
+https://www.arduino.cc/en/Tutorial/KeyboardLogout
